@@ -12,7 +12,7 @@
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
 Version:	20040424.1
-Release:	17
+Release:	18
 Group:		System/Internationalization
 License:	GPLv2
 Url:		http://aspell.net/
